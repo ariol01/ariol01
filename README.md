@@ -1,7 +1,5 @@
 ### Hi there 👋
 ### i'm Ariel, do you wanna know some fun facts about this profile or about me?
-<!--
-**ariol01/ariol01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 On this profile you will find many repositories that has:
 
@@ -15,10 +13,10 @@ On this profile you will find many repositories that has:
 <tr>
   <td colspan="2">
     <a href="#">
-      <img align="left" style="padding-right: 12px" alt="C#" width="32px" src="https://en.wikipedia.org/wiki/File:C_Sharp_wordmark.svg" />
+      <img align="left" style="padding-right: 12px" alt="C#" width="32px" src="https://imgur.com/a/hFU2Q7A" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
       <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />
-      <img align="left" style="padding-right: 12px" alt="SqlServer" width="32px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fteltecsolutions.com.br%2Fwp-content%2Fuploads%2F2019%2F02%2Fsql-server-2008.png&imgrefurl=https%3A%2F%2Fteltecsolutions.com.br%2Ffim-do-suporte-sql-server-2008&tbnid=-03OreEAEoDHYM&vet=12ahUKEwiDwMOxp7jtAhVzAbkGHfL5DxoQMygIegUIARC4AQ..i&docid=EzRNdTQuU_E4nM&w=466&h=383&q=sql%20server&ved=2ahUKEwiDwMOxp7jtAhVzAbkGHfL5DxoQMygIegUIARC4AQ" />
+      <img align="left" style="padding-right: 12px" alt="SqlServer" width="32px" src="https://imgur.com/a/ByGG75i" />
      
 </table>
 
@@ -33,3 +31,7 @@ On this profile you will find many repositories that has:
 - I’m currently working at Supel - Superintência de licitação do estado de Rondônia(http://www.rondonia.ro.gov.br/supel/)
 
 - Thanks for visiting. 
+
+<!--
+**ariol01/ariol01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
