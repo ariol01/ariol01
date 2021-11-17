@@ -17,7 +17,8 @@ On this profile you will find many repositories that has:
       <img align="left" style="padding-right: 12px" alt="HTML" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
       <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" />
-      <img align="left" style="padding-right: 12px" alt="SqlServer" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+      <img align="left" style="padding-right: 12px" alt="SqlServer" width="32px" src="https://i.imgur.com/rINfYVK.png" />
+      <img align="left" style="padding-right: 12px" alt="MySql" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" />
        <img align="left" style="padding-right: 12px" alt="GIT" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" />
      
 </table>
