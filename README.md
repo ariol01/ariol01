@@ -1,5 +1,5 @@
 ### Hi there 👋
-### i'm Ariel, do you wanna know some fun facts about this profile or about me?
+### I'm Ariel, do you wanna know some fun facts about this profile or about me?
 
 On this profile you will find many repositories that has:
 
@@ -13,10 +13,11 @@ On this profile you will find many repositories that has:
 <tr>
   <td colspan="2">
     <a href="#">
-      <img align="left" style="padding-right: 12px" alt="C#" width="32px" src="https://imgur.com/a/hFU2Q7A" />
-      <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
-      <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />
-      <img align="left" style="padding-right: 12px" alt="SqlServer" width="32px" src="https://imgur.com/a/ByGG75i" />
+      <img align="left" style="padding-right: 12px" alt="C#" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-line.svg" />
+      <img align="left" style="padding-right: 12px" alt="HTML" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+      <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+      <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" />
+      <img align="left" style="padding-right: 12px" alt="SqlServer" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
      
 </table>
 
@@ -24,7 +25,7 @@ On this profile you will find many repositories that has:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ariol01)](https://github.com/ariol01)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-s-silva/)](https://www.linkedin.com/in/ariel-s-silva/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+556993685534text=Hello!)](https://api.whatsapp.com/send?phone=+55&text=Hello!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+55text=Hello!)](https://api.whatsapp.com/send?phone=+55&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:)
 
 
