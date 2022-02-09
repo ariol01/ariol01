@@ -23,6 +23,17 @@ On this profile you will find many repositories that has:
      
 </table>
 
+ ### Projects
+  <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" />
+  <br>
+    <ul>
+      <br>
+      <li><a href=""https://muddled-title.surge.sh/"> movies with react </a> </li>
+      <li> <a href="https://rainy-process.surge.sh/"> count numbers with react </a> </li>
+     </ul>
+    
+   
+
 ### About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ariol01)](https://github.com/ariol01)
