@@ -46,8 +46,6 @@ On this profile you will find many repositories that has:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:)
 
 
-- I’m currently working at SETIC - (http://www.rondonia.ro.gov.br/setic/)
-
 - Thanks for visiting. 
 
 <!--
