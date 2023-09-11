@@ -14,6 +14,7 @@ On this profile you will find many repositories that has:
   <td colspan="2">
     <a href="#">
       <img align="left" style="padding-right: 12px" alt="C#" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-line.svg" />
+       <img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
       <img align="left" style="padding-right: 12px" alt="HTML" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
       <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" />
