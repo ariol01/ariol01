@@ -50,7 +50,7 @@ On this profile you will find many repositories that has:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+55text=Hello!)](https://api.whatsapp.com/send?phone=+55&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:)
 
-- You can see more on Projects TAB. 
+- You can see more on Repositories TAB. follow the link https://github.com/ariol01?tab=repositories 
 - Thanks for visiting. 
 
 <!--
