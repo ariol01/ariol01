@@ -3,8 +3,11 @@
 
 On this profile you will find many repositories that has:
 
-- Open Source Code with Asp.Net Core
-- Languages that I use: C#, Asp net , JS
+- Open Source Code with Asp.Net Core and Python
+- Backend: C#, Python
+- Front-End: Javascript, React
+- Database: Sqlserver, Postgresql , Mysql
+- Ide: Visual Studio, Visual Code
 - Everyday trying to improve a piece of code 
 
 ### Languages & Tools
